@@ -1,0 +1,10 @@
+cache/
+logs/
+tmp/
+backup/
+vendor/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+webserver-configs/

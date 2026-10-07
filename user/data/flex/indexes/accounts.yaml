@@ -1,0 +1,9 @@
+version: '1.2'
+timestamp: 1791316040
+count: 1
+index:
+  dominyk:
+    storage_key: dominyk
+    storage_timestamp: 1791316025
+    key: dominyk
+    email: dominykas.smoriginas@vvk.lt

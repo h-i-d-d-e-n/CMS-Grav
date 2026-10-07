@@ -1,0 +1,21 @@
+state: enabled
+email: dominykas.smoriginas@vvk.lt
+fullname: dominyk
+title: Administrator
+access:
+  site:
+    login: true
+  api:
+    super: true
+hashed_password: $2y$10$G2HNFvcQhK7ow7EzGY4Nuuc/yrPq7UrmFJUmC7IrFzXZJuUVoyRZq
+created: 1791307299
+modified: 1791307299
+avatar: {  }
+twofa_enabled: false
+twofa_secret: ''
+admin_next:
+  preferences:
+    accentHue: 347
+    accentSaturation: 77
+    darkShade: midnight
+    editorMode: expert
