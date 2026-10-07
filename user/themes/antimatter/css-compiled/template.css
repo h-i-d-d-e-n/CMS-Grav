@@ -1734,6 +1734,48 @@ select:focus {
   border-color: #333333;
 }
 
+/* Footer navigation */
+
+#footer {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.footer-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.footer-nav a {
+  color: #bdbdbd;
+  text-decoration: none;
+  font-size: 0.95rem;
+  transition: color 0.2s ease;
+}
+
+.footer-nav a:hover {
+  color: #ffffff;
+}
+
+.footer-nav a:first-child {
+  color: #7fa8c4;
+}
+
+#footer p {
+  color: #777777;
+  font-size: 0.8rem;
+}
+
+@media only all and (max-width: 47.938em) {
+  .footer-nav {
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+}
+
 /* Homepage */
 
 .home-page {

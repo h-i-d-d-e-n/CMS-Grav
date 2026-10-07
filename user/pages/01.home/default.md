@@ -219,26 +219,4 @@ visible: true
         information about the CMS, the project and the available contact
         options.
     </p>
-
-    <hr>
-
-    <h2>Explore the Website</h2>
-
-    <p>
-        Use the navigation menu to explore the different sections of the
-        website.
-    </p>
-
-    <p>
-        <a href="/news">Read the News →</a>
-    </p>
-
-    <p>
-        <a href="/about-us">Learn About the Project →</a>
-    </p>
-
-    <p>
-        <a href="/contacts">Contact Us →</a>
-    </p>
-
 </div>
